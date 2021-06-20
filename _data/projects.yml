@@ -1,5 +1,5 @@
 - name: ER Timeliness
-  image: https://unsplash.com/photos/Ei46GUcG_y4
+  image: https://unsplash.com/photos/Ei46GUcG_y4.jpg
   link: https://github.com/jobranch2019/ER_Timeliness
   description: Treatment timeliness by ER volume
 - name: Breast Cancer Staging
