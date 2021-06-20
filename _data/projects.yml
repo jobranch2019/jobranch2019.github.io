@@ -1,7 +1,7 @@
 - name: ER Timeliness
   image: https://unsplash.com/photos/Ei46GUcG_y4.jpg
   link: https://github.com/jobranch2019/ER_Timeliness
-  description: Treatment timeliness by ER volume
+  description: ER selection guidance based on patient volume
 - name: Breast Cancer Staging
   link: https://github.com/jobranch2019/Breast_Cancer_Staging
   image: https://github.com/jobranch2019/jobranch2019.github.io/blob/master/assets/images/pink_ribbon.jpg
@@ -10,7 +10,7 @@
   link: https://github.com/jobranch2019/Airline_Safety
   image: https://github.com/jobranch2019/jobranch2019.github.io/blob/master/assets/images/plane.jpg
   description: A multi-modal data visualization and communication project
-- name: Nursing Home Comparisons
+- name: Comparing Nursing Homes
   description: Predicting quality based on publicly available metrics
   link: https://github.com/jobranch2019/Nursing_Home_Comparisons
   image: https://github.com/jobranch2019/jobranch2019.github.io/blob/master/assets/images/nursing_home.jpg
@@ -30,7 +30,7 @@
   link: https://github.com/jobranch2019/Clinical_Uses_For_Dementia_Pets
   image: https://github.com/jobranch2019/jobranch2019.github.io/blob/master/assets/images/cat.jpg
   description: Exploration of therapy augmented by fitness tracker data
-- name: COVID-19
+- name: COVID-19 - in progress
   link:
   image: https://github.com/jobranch2019/jobranch2019.github.io/blob/master/assets/images/COVID_white.jpg
   description: 
