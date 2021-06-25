@@ -20,7 +20,7 @@
   description: Explores relationships among movie popularity, body count, and Oscars
 - name: Python Weather API
   link: https://github.com/jobranch2019/Python_Weather_API
-  image: https://github.com/jobranch2019/jobranch2019.github.io/blob/master/assets/images/weather.jpg
+  image: https://github.com/jobranch2019/jobranch2019.github.io/blob/master/assets/images/weather.jpg?raw=true
   description: Interacting with a webservice in order to obtain data
 - name: Hospital Readmissions
   link: https://github.com/jobranch2019/Predicting-Hospital-Readmission
