@@ -18,7 +18,8 @@ site-keywords: Site, Template, Theme
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: https://images.unsplash.com/photo-1623283596941-754adbf65a2c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MjU1fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60
+# heroimage: https://images.unsplash.com/photo-1623283596941-754adbf65a2c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MjU1fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60
+heroimage: https://unsplash.com/photos/bj7EB5my6og
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
