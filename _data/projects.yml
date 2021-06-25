@@ -13,7 +13,7 @@
 - name: Nursing Home Compare
   description: Predicting quality based on publicly available metrics
   link: https://github.com/jobranch2019/Nursing_Home_Comparisons
-  image: https://github.com/jobranch2019/jobranch2019.github.io/blob/master/assets/images/nursing_home.jpg
+  image: https://github.com/jobranch2019/jobranch2019.github.io/blob/master/assets/images/nursing_home.jpg?raw=true
 - name: Movie Popularity
   link: https://github.com/jobranch2019/Movie_Popularity
   image: https://github.com/jobranch2019/jobranch2019.github.io/blob/master/assets/images/movie.jpg?raw=true
