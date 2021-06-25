@@ -8,7 +8,7 @@
   description: Predictions of five-year survival of breast cancer
 - name: Airline Safety
   link: https://github.com/jobranch2019/Airline_Safety
-  image: https://github.com/jobranch2019/jobranch2019.github.io/blob/master/assets/images/plane.jpg
+  image: https://github.com/jobranch2019/jobranch2019.github.io/blob/master/assets/images/plane.jpg?raw=true
   description: A multi-modal data visualization and communication project
 - name: Nursing Home Compare
   description: Predicting quality based on publicly available metrics
