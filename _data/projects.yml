@@ -4,7 +4,7 @@
   description: ER selection guidance based on patient volume
 - name: Breast Cancer Staging
   link: https://github.com/jobranch2019/Breast_Cancer_Staging
-  image: https://github.com/jobranch2019/jobranch2019.github.io/blob/master/assets/images/pink_ribbon.jpg
+  image: https://github.com/jobranch2019/jobranch2019.github.io/blob/master/assets/images/pink_ribbon.jpg?raw=true
   description: Predictions of five-year survival of breast cancer
 - name: Airline Safety
   link: https://github.com/jobranch2019/Airline_Safety
