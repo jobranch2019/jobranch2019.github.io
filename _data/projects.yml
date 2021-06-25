@@ -24,7 +24,6 @@
   description: Interacting with a webservice in order to obtain data
 - name: Hospital Readmissions
   link: https://github.com/jobranch2019/Predicting-Hospital-Readmission
-  # image: https://github.com/jobranch2019/jobranch2019.github.io/blob/master/assets/images/beds.jpg
   image: https://github.com/jobranch2019/jobranch2019.github.io/blob/master/assets/images/beds.jpg?raw=true
   description: Predicting hospital readmissions in order to prevent them
 - name: Dementia Pets' Utilities
@@ -37,7 +36,7 @@
   description: Incredibly insightful comment that takes up exactly 2 lines goes here
 - name: Project 2 - TBD
   link:
-  image: 
+  image: https://github.com/jobranch2019/jobranch2019.github.io/blob/master/assets/images/masks.jpg
   description: 
 - name: Project 3 - TBD
   link:
