@@ -16,7 +16,8 @@
   image: https://github.com/jobranch2019/jobranch2019.github.io/blob/master/assets/images/nursing_home.jpg?raw=true
 - name: Movie Popularity
   link: https://github.com/jobranch2019/Movie_Popularity
-  image: https://github.com/jobranch2019/jobranch2019.github.io/blob/master/assets/images/movie.jpg?raw=true
+  # image: https://github.com/jobranch2019/jobranch2019.github.io/blob/master/assets/images/movie.jpg?raw=true
+  image: https://github.com/jobranch2019/jobranch2019.github.io/blob/master/assets/images/full_theater.jpg:raw=true
   description: Explores relationships among movie popularity, body count, and Oscars
 - name: Python Weather API
   link: https://github.com/jobranch2019/Python_Weather_API
