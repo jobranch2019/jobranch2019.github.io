@@ -43,7 +43,8 @@
   description: Going straight to the data to avoid media information bias
 - name: (in progress) "Follow the money!"
   link:
-  image: https://github.com/jobranch2019/jobranch2019.github.io/blob/master/assets/images/Amazon.jpg?raw=true
+  image: https://github.com/jobranch2019/jobranch2019.github.io/blob/master/assets/SALE%20sign.jpg?raw=true
+  #image: https://github.com/jobranch2019/jobranch2019.github.io/blob/master/assets/images/Amazon.jpg?raw=true
   #image: https://github.com/jobranch2019/jobranch2019.github.io/blob/master/assets/images/masks.jpg?raw=true
   description: Gaining insights to make predictions from Amazon personal spending reports
 - name: Project 3 - TBD
