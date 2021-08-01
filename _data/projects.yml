@@ -50,4 +50,4 @@
 - name: Image Classification
   link: https://github.com/jobranch2019/Image_Classification
   image: https://github.com/jobranch2019/jobranch2019.github.io/blob/master/assets/images/three_masks.jpg?raw=true
-  description: Uses deep learning to train a convnet to detect face mask wearers
+  description: Uses deep learning to train a convnet to detect face mask abstainers
