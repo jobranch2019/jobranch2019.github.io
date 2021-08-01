@@ -47,7 +47,7 @@
   #image: https://github.com/jobranch2019/jobranch2019.github.io/blob/master/assets/images/Amazon.jpg?raw=true
   #image: https://github.com/jobranch2019/jobranch2019.github.io/blob/master/assets/images/masks.jpg?raw=true
   description: Gaining insights to make predictions from Amazon personal spending reports
-- name: Face Mask Abstainers
+- name: Face Mask Screening
   link: https://github.com/jobranch2019/Image_Classification
   image: https://github.com/jobranch2019/jobranch2019.github.io/blob/master/assets/images/three_masks.jpg?raw=true
-  description: Uses deep learning to train a convnet to perform image classification
+  description: Uses deep learning image classification to detect compliance
